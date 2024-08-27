@@ -3,13 +3,15 @@
 
 **DreamAnchor/DreamAnchor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... coding my first Adobe Photoshop Panel
-- 🌱 I’m currently learning ... how
-- 👯 I’m looking to collaborate on ... nothing
-- 🤔 I’m looking for help with ... not sure
-- 💬 Ask me about ... my mental health
-- 📫 How to reach me: ... please don't
-- 😄 Pronouns: ... just don't call me late for dinner
-- ⚡ Fun fact: ... most people don't find facts fun, and those who do aren't typically very fun for those who don't. Fact: That was an opinion with only the factual evidence proliferated by the anecdotes of my life history. Yes that was likely redundant. Have fun.
+- 🔭 **I’m currently working on...** coding my first Adobe Photoshop Panel. Yes, this might take a while. 
+- 🌱 **I’m currently learning...** how. Yes, just... *how*.
+- 👯 **I’m looking to collaborate on...** nothing. I work alone, like a coding ninja in the night (who maybe naps a lot).
+- 🤔 **I’m looking for help with...** not sure. I'll get back to you on that. Or not.
+- 💬 **Ask me about...** my mental health. It's a rollercoaster, so hold on tight.
+- 📫 **How to reach me:** ... please don't. The inbox monster is real.
+- 😄 **Pronouns:** ... just don't call me late for dinner. Seriously, I get *hangry*.
+- ⚡ **Fun fact:** ... Most people don't find facts fun, and those who do aren't typically much fun for those who don't. Fact: That was an opinion supported by the anecdotal evidence of my life. Was that redundant? Probably. Are you having fun yet?
+
+Enjoy your stay in this repository, or don't – I'm not here to tell you how to live your life.

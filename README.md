@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**DreamAnchor/DreamAnchor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DreamAnchor/DreamAnchor** is a ✨ _special_ ✨ repository because its **mine** and that's all you **need** to know, but if you **want** to know more, well...**best of luck!**
 
 ## Here are some ideas to get you started:
 
